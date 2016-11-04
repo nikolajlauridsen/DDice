@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name" translatable="false">DDice</string>
+    <string name="welcome_message">Welcome to DDice, the simple Dungeons and dragons
+    dice rolling app</string>
+    <string name="roll_button_text">Roll</string>
+    <string name="roll_result">Click the roll button to begin</string>
+</resources>
