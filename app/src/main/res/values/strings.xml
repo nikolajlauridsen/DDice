@@ -10,4 +10,5 @@
     <string name="d12_roll_button">Roll D12</string>
     <string name="d20_roll_button">Roll D20</string>
     <string name="d100_roll_button">Roll D100</string>
+    <string name="history_title">Roll History</string>
 </resources>
