@@ -2,6 +2,12 @@
     <string name="app_name" translatable="false">DDice</string>
     <string name="welcome_message">Welcome to DDice, the simple Dungeons and dragons
     dice rolling app</string>
-    <string name="roll_button_text">Roll</string>
+    <string name="d4_roll_button">Roll D4</string>
+    <string name="roll_button_text">Roll D6</string>
     <string name="roll_result">Click the roll button to begin</string>
+    <string name="d8_roll_button">Roll D8</string>
+    <string name="d10_roll_button">Roll D10</string>
+    <string name="d12_roll_button">Roll D12</string>
+    <string name="d20_roll_button">Roll D20</string>
+    <string name="d100_roll_button">Roll D100</string>
 </resources>

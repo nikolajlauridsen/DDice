@@ -1,7 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">DDice</string>
-    <string name="roll_button_text">Rul</string>
+    <string name="roll_button_text">Rul D6</string>
     <string name="roll_result">Tryk på rul knappen for at begynde</string>
     <string name="welcome_message">Velkommen til DDice, den simple Dungeons and Dragons terninge app</string>
+    <string name="d8_roll_button">Rul D8</string>
+    <string name="d10_roll_button">Rul D10</string>
+    <string name="d4_roll_button">Rul D4</string>
+    <string name="d12_roll_button">Rul D12</string>
+    <string name="d100_roll_button">Rul D100</string>
+    <string name="d20_roll_button">Rul D20</string>
 </resources>
