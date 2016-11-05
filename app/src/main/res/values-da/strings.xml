@@ -10,4 +10,5 @@
     <string name="d12_roll_button">Rul D12</string>
     <string name="d100_roll_button">Rul D100</string>
     <string name="d20_roll_button">Rul D20</string>
+    <string name="history_title">Historik</string>
 </resources>
