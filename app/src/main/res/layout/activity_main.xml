@@ -6,12 +6,6 @@
     android:layout_height="match_parent"
     android:orientation="vertical">
 
-    <TextView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:layout_margin="10dp"
-        android:text="@string/welcome_message" />
-
     <TextView android:id="@+id/roll_result"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
@@ -20,10 +14,11 @@
         android:layout_marginBottom="5dp"
         android:layout_marginTop="20dp"/>
 
+    <!-- Horizontal line -->
     <View
         android:layout_width="match_parent"
         android:layout_height="2dp"
-        android:background="#c0c0c0"
+        android:background="#c2aeaf"
         android:layout_marginTop="5dp" />
 
     <!-- Roll history -->
@@ -47,11 +42,11 @@
 
     </ScrollView>
 
-
     <!-- Button grid -->
     <GridLayout
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+        android:layout_margin="5dp"
         android:layout_gravity="center">
 
         <Button
