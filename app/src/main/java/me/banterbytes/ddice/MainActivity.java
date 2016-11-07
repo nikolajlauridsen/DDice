@@ -1,6 +1,5 @@
 package me.banterbytes.ddice;
 
-import android.support.v7.app.ActionBar;
 import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.view.Gravity;
@@ -8,9 +7,6 @@ import android.view.View;
 import android.widget.LinearLayout;
 import android.widget.TextView;
 
-import org.w3c.dom.Text;
-
-import java.text.Format;
 import java.util.Locale;
 
 public class MainActivity extends AppCompatActivity {
